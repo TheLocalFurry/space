@@ -1,6 +1,6 @@
 # Nebula
 
-NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. NebulaWeb is a stunning, sleek, and functional web-proxy with support for thousands of popular sites. With NebulaWeb, the sky is the limit.
+NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. NebulaWeb is a stunning, sleek, and functional [REDACTED] with support for thousands of popular sites. With NebulaWeb, the sky is the limit.
 
 ![license](https://img.shields.io/badge/License-GNU%20AGPL%20v3-blue)
 
@@ -185,18 +185,18 @@ _Note: Server will need to run` cd Nebula && sudo nohup PORT=80 node . &` on reb
 
 - HTML, JS, CSS
 - Partical.JS (Specifically v4, 5, 6.1 &< only)
-- Ultraviolet (proxy)
-- Osana (proxy)
+- Ultraviolet (no)
+- Osana (no)
 - TompHTTP Bare Server Node
 - ExpressJS
 
 ## Support
 
-For support, email chloe@nebula.bio or join our discord: discord.gg/unblocker
+For support, email chloe@nebula.bio or join our discord: redacted
 
 ## Demo
 
-[Click here to see a demo of Nebula](https://nebulaproxy.io/)
+[Click here to see a demo of Nebula](redacted)
 
 ## Acknowledgements
 
